@@ -1,0 +1,5 @@
+lib/app/modules/home/modules/mapa_comandas/mapa_comandas_module.dart
+lib/app/modules/home/modules/mapa_comandas/mapa_comandas_page.dart
+test/app/modules/home/modules/mapa_comandas/mapa_comandas_page_test.dart
+lib/app/modules/home/modules/mapa_comandas/mapa_comandas_controller.dart
+test/app/modules/home/modules/mapa_comandas/mapa_comandas_controller_test.dart

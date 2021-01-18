@@ -1,0 +1,5 @@
+lib/app/modules/home/modules/nova_comanda/nova_comanda_module.dart
+lib/app/modules/home/modules/nova_comanda/nova_comanda_page.dart
+test/app/modules/home/modules/nova_comanda/nova_comanda_page_test.dart
+lib/app/modules/home/modules/nova_comanda/nova_comanda_controller.dart
+test/app/modules/home/modules/nova_comanda/nova_comanda_controller_test.dart

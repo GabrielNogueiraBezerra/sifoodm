@@ -1,0 +1,5 @@
+lib/app/modules/home/modules/comanda/modules/insere_produto/insere_produto_module.dart
+lib/app/modules/home/modules/comanda/modules/insere_produto/insere_produto_page.dart
+test/app/modules/home/modules/comanda/modules/insere_produto/insere_produto_page_test.dart
+lib/app/modules/home/modules/comanda/modules/insere_produto/insere_produto_controller.dart
+test/app/modules/home/modules/comanda/modules/insere_produto/insere_produto_controller_test.dart

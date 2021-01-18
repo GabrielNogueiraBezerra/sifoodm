@@ -1,0 +1,4 @@
+lib/app/modules/login/pages/configuracao/configuracao_page.dart
+test/app/modules/login/pages/configuracao/configuracao_page_test.dart
+lib/app/modules/login/pages/configuracao/configuracao_controller.dart
+test/app/modules/login/pages/configuracao/configuracao_controller_test.dart
